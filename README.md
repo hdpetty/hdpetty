@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hdpetty
+- 👀 I’m interested in .NET web applications and data analytics
+- 🌱 I’m currently learning C# & front-end development.
+- 📫 How to reach me: https://www.linkedin.com/in/hannahpettythomas
